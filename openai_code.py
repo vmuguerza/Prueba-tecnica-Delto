@@ -1,4 +1,7 @@
 import openai
+from config import OPENAI_KEY
+
+openai.api_key = OPENAI_KEY
 
 def analizar_sentimiento(conversacion):
     """
