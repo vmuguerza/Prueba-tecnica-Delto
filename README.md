@@ -34,8 +34,8 @@ Este proyecto es un chatbot desarrollado para Telegram que proporciona informaci
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/vmuguerza/Prueba-tecnica-Delto.git
+   cd Prueba-tecnica-Delto
 2. Instala las dependencias:
    ```bash
    pip install -r requirements.txt
